@@ -2,6 +2,12 @@
 
 Design elements for Naming Convention website
 
+## Logo
+![Logo](dist/logo_small.png "Logo")
+
+## Icon
+![Icon](dist/icon_small.png "Icon")
+
 ## Colors
 - ![#213365](https://placehold.it/100x50/213365/000000?text=+)`#213365, rgb(33,51,101)`
 - ![#30bcef](https://placehold.it/100x50/30bcef/000000?text=+)`#30bcef, rgb(48,188,239)`
