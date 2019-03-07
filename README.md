@@ -3,10 +3,10 @@
 Design elements for Naming Convention website
 
 ## Logo
-![Logo](dist/logo_small.png "Logo")
+![Logo](dist/logo.svg)
 
 ## Icon
-![Icon](dist/icon_small.png "Icon")
+![Icon](dist/icon.svg)
 
 ## Colors
 - ![#213365](https://placehold.it/100x50/213365/000000?text=+)`#213365, rgb(33,51,101)`
@@ -17,4 +17,3 @@ Design elements for Naming Convention website
 ## How to use
 * The `src` contains the sources files.
 * The `dist` file contains the design exported that you can use.
-
