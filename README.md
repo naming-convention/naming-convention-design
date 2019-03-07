@@ -3,10 +3,10 @@
 Design elements for Naming Convention website
 
 ## Logo
-![Logo](dist/logo.svg "Logo" =500x)
+![Logo](dist/logo.svg)
 
 ## Icon
-![Icon](dist/icon.svg "Icon" =250x)
+![Icon](dist/icon.svg)
 
 ## Colors
 - ![#213365](https://placehold.it/100x50/213365/000000?text=+)`#213365, rgb(33,51,101)`
