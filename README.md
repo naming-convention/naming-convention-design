@@ -3,10 +3,13 @@
 Design elements for Naming Convention website.
 
 ## Logo
-![Logo](dist/logo.svg)
+![Logo](dist/logo/logo.svg)
 
 ## Icon
-![Icon](dist/icon.svg)
+![Icon](dist/icon/icon.svg)
+
+## Icon (in square frame)
+![Icon](dist/icon_square/icon_square_bg_500.png)
 
 ## Colors
 - <img valign='middle' alt='branding color swatch #213365' src='https://placehold.it/50x50/213365/000000?text=_'/> `#213365, rgb(33,51,101)`
@@ -16,4 +19,5 @@ Design elements for Naming Convention website.
 
 ## How to use
 * The `/dist` folder contains the design exports (ready to use).
+  * Subfolders are provided for `/icon` ('NC' logo); `/icon_square` ('NC' logo in square context); and `/logo` (full 'Naming Convention' logo)
 * The `/src` folder contains the sources files.
